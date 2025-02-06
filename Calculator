@@ -1,0 +1,4 @@
+Console.WriteLine("Enter Name");
+string name = Console.ReadLine();
+Console.WriteLine("Enter your roll number");
+string name = Convert.ToInt32(Console.ReadLine());
