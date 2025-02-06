@@ -1,4 +1,37 @@
 Console.WriteLine("Enter Name");
 string name = Console.ReadLine();
 Console.WriteLine("Enter your roll number");
-string name = Convert.ToInt32(Console.ReadLine());
+int roll = Convert.ToInt32(Console.ReadLine());
+
+Addition
+Console.WriteLine("Enter your roll number");
+int x = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter your roll number");
+int y = Convert.ToInt32(Console.ReadLine());
+int z = x+y
+Console.WriteLine("Sum of number is" + z);
+
+Substraction:
+Console.WriteLine("Enter your roll number");
+int x = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter your roll number");
+int y = Convert.ToInt32(Console.ReadLine());
+int z = x-y
+Console.WriteLine("Sub of number is" + z);
+
+Multiplication:
+Console.WriteLine("Enter your roll number");
+int x = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter your roll number");
+int y = Convert.ToInt32(Console.ReadLine());
+int z = x*y
+Console.WriteLine("Product of number is" + z);
+
+Division:
+Console.WriteLine("Enter your roll number");
+int x = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter your roll number");
+int y = Convert.ToInt32(Console.ReadLine());
+int z = x/y
+Console.WriteLine("division of number is" + z);
+
