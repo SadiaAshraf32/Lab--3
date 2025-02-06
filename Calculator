@@ -26,3 +26,12 @@ Console.WriteLine("Enter your roll number");
 int y = Convert.ToInt32(Console.ReadLine());
 int z = x*y
 Console.WriteLine("Product of number is" + z);
+
+Division:
+Console.WriteLine("Enter your roll number");
+int x = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter your roll number");
+int y = Convert.ToInt32(Console.ReadLine());
+int z = x/y
+Console.WriteLine("division of number is" + z);
+
